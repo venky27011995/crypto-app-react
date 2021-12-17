@@ -16,16 +16,16 @@ const Exchanges = () => {
         <>
             <Row>
                 <Col  span={6}>
-                <Text level={5}>Exchanges</Text>
+                <strong level={5}>Exchanges</strong>
                 </Col>
                 <Col span={6}>
-                <Text level={5}>24h Trade Volume</Text>
+                <strong level={5}>24h Trade Volume</strong>
                 </Col>
                 <Col span={6}>
-                <Text level={5}>Markets</Text>
+                <strong level={5}>Markets</strong>
                 </Col>
                 <Col span={6}>
-                <Text level={5}>Change</Text>
+                <strong level={5}>Change</strong>
                 </Col>
             </Row>
             <Row>
